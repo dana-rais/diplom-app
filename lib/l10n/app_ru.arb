@@ -1,0 +1,194 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Қадам / Шаг",
+  "back": "Назад",
+  "toHome": "На главную",
+  "next": "Дальше",
+  "start": "Начать",
+  "voicePlay": "Озвучить",
+  "voiceStop": "Остановить",
+  "voiceUnavailable": "Озвучка недоступна",
+  "hint": "Подсказка",
+  "repeat": "Повторить",
+  "notAvailableYet": "Пока недоступно",
+  "on": "Вкл",
+  "off": "Выкл",
+  "stepOf": "Шаг {current} из {total}",
+  "@stepOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "situationOf": "Ситуация {current} из {total}",
+  "@situationOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "trainingMode": "Учебный режим",
+  "trainingCall": "Учебный звонок",
+  "trainingSms": "Учебное SMS",
+  "trainingShort": "Учебный",
+  "feedbackSuccessTitle": "Отлично!",
+  "feedbackSuccessBody": "Вы нажали правильно",
+  "feedbackAlmostTitle": "Почти получилось",
+  "feedbackAlmostBody": "Попробуйте ещё раз — я подскажу",
+  "exitTitle": "Выйти из урока?",
+  "exitBody": "Прогресс сохранится. Продолжите с этого места.",
+  "exitStay": "Остаться в уроке",
+  "exitLeave": "Выйти",
+  "introHeading": "Чему научимся?",
+  "summaryTitle": "Урок пройден",
+  "summaryDone": "Получилось",
+  "summaryRepeat": "Стоит повторить",
+  "summaryRetryNote": "Понадобилась подсказка или вторая попытка",
+  "summaryAgain": "Пройти ещё раз",
+  "choiceFootnote": "Здесь нет неправильных ответов — после выбора разберём ситуацию вместе.",
+  "navHome": "Главная",
+  "navProgress": "Мой прогресс",
+  "navProgressShort": "Прогресс",
+  "navSettings": "Настройки",
+  "greeting": "Добрый день!",
+  "homeSubtitle": "Чему научимся?",
+  "continueHere": "Вы остановились здесь",
+  "continueLesson": "Продолжить урок",
+  "lessonsHeader": "Уроки",
+  "moduleProgress": "{done} из {total, plural, one{{total} урока} few{{total} уроков} many{{total} уроков} other{{total} уроков}}",
+  "@moduleProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "moduleNotStarted": "Ещё не начат · {total, plural, one{{total} урок} few{{total} урока} many{{total} уроков} other{{total} уроков}}",
+  "@moduleNotStarted": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "repeatDifficult": "Повторить трудное · {count, plural, one{{count} урок} few{{count} урока} many{{count} уроков} other{{count} уроков}}",
+  "@repeatDifficult": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "lessonStatusDone": "Пройден",
+  "lessonStatusNew": "Новый",
+  "lessonStatusResume": "Продолжить: шаг {step} из {total}",
+  "@lessonStatusResume": {
+    "placeholders": {
+      "step": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "onbWelcome": "Сәлеметсіз бе! Здравствуйте!",
+  "onbChooseLanguage": "Тілді таңдаңыз. Выберите язык.",
+  "onbHelperNote": "Баптауға жақындарыңыз көмектесе алады. Можно попросить близких помочь с настройкой.",
+  "langKk": "Қазақша",
+  "langKkSub": "Қазақ тілінде жалғастыру",
+  "langRu": "Русский",
+  "langRuSub": "Продолжить на русском",
+  "onbSetupOf": "Настройка {current} из {total}",
+  "@onbSetupOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "onbTextQuestion": "Вам удобно читать этот текст?",
+  "onbTextCurrent": "Сейчас: {level}",
+  "@onbTextCurrent": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "onbTextBody": "Если этот текст хорошо видно, нажмите «Да, удобно». Если нет — «Крупнее».",
+  "onbTextYes": "Да, удобно",
+  "onbTextSmaller": "Мельче",
+  "onbTextBigger": "Крупнее",
+  "textScaleNormal": "Обычный (100%)",
+  "textScaleLarge": "Крупный (125%)",
+  "textScaleXLarge": "Очень крупный (150%)",
+  "textScaleMax": "Максимальный (200%)",
+  "onbVoiceQuestion": "Читать задания вслух?",
+  "onbVoiceListen": "Послушать пример",
+  "onbVoiceYes": "Да, читать вслух",
+  "onbVoiceNo": "Нет, не нужно",
+  "onbThemeQuestion": "Какое оформление удобнее?",
+  "themeLight": "Светлая",
+  "themeHighContrast": "Высокий контраст",
+  "onbSafeTitle": "Здесь можно ошибаться",
+  "onbSafeBody": "Это учебное приложение. Деньги и данные ненастоящие, ничего нельзя сломать.",
+  "onbFirstTapTitle": "Первое нажатие",
+  "onbFirstTapButton": "Нажмите сюда",
+  "onbFirstTapAlmost": "Почти! Нажмите на кнопку ниже.",
+  "progressTitle": "Мой прогресс",
+  "progressEmpty": "Пока нет пройденных уроков. Начните с главной страницы.",
+  "difficultTitle": "Повторить трудное",
+  "difficultEmpty": "Трудных уроков нет. Отличная работа!",
+  "achievementsTitle": "Достижения",
+  "achFirstLessonTitle": "Первый урок",
+  "achFirstLessonBody": "Вы прошли свой первый урок.",
+  "achGesturesDoneTitle": "Мастер жестов",
+  "achGesturesDoneBody": "Вы прошли все уроки по жестам.",
+  "achFirstCallTitle": "Первый звонок",
+  "achFirstCallBody": "Вы научились звонить близким.",
+  "achFirstPaymentTitle": "Первая оплата",
+  "achFirstPaymentBody": "Вы оплатили счёт в учебном банке.",
+  "achScamShieldTitle": "Щит от мошенников",
+  "achScamShieldBody": "Вы разобрали все ситуации с мошенниками.",
+  "settingsTitle": "Настройки",
+  "previewLabel": "Так будет выглядеть урок",
+  "previewText": "Нажмите на кнопку внизу",
+  "textSizeLabel": "Размер текста · {level}",
+  "@textSizeLabel": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "themeLabel": "Тема",
+  "voiceLabel": "Озвучка",
+  "voiceAuto": "Читать задания вслух",
+  "voiceSlow": "Медленно",
+  "voiceNormal": "Обычно",
+  "soundHaptics": "Звук и вибрация",
+  "languageLabel": "Язык",
+  "helperSection": "Для помощника",
+  "resetProgress": "Сбросить прогресс",
+  "resetTitle": "Сбросить прогресс?",
+  "resetBody": "Все уроки снова станут новыми. Настройки сохранятся.",
+  "resetConfirm": "Да, сбросить",
+  "resetCancel": "Отмена",
+  "about": "О приложении",
+  "aboutBody": "Қадам / Шаг — тренажёр цифровой грамотности. Здесь всё учебное: деньги и данные ненастоящие. Работает без интернета."
+}
