@@ -1,7 +1,7 @@
 # 04. Existing System Comparison
 
 ## 1. Overview
-To justify the development of the proposed interactive digital literacy simulator, existing market solutions were analyzed across a consistent set of comparison criteria[cite: 1]. The evaluation compares standard approaches with the proposed solution to highlight functional and usability gaps[cite: 1].
+To justify the development of the proposed interactive digital literacy simulator, existing market solutions were analyzed across a consistent set of comparison criteria. The evaluation compares standard approaches with the proposed solution to highlight functional and usability gaps.
 
 ## 2. Compared Systems
 1. **Generic Elder Launchers (e.g., BIG Launcher / Simple Mode):** Simplified home screen interfaces that enlarge icons and restrict system settings.
@@ -24,4 +24,4 @@ To justify the development of the proposed interactive digital literacy simulato
 
 ## 4. Summary & Justification
 - **Limitations of Existing Systems:** Launchers simplify the screen layout but fail to actively teach users how to handle real-world scenarios or protect themselves from scammers. Video tutorials lack interactive practice, leading to low retention among elderly learners. Standard gamified platforms often introduce pressure through timers and error penalties, causing anxiety.
-- **Necessity of Proposed Solution:** The proposed application directly addresses these gaps by providing hands-on, stress-free simulations of real-life situations (such as suspicious calls, SMS warnings, and basic gestures), backed by adjustable text scales, audio narration, and local progress tracking to safely build real-world digital confidence[cite: 1].
+- **Necessity of Proposed Solution:** The proposed application directly addresses these gaps by providing hands-on, stress-free simulations of real-life situations (such as suspicious calls, SMS warnings, and basic gestures), backed by adjustable text scales, audio narration, and local progress tracking to safely build real-world digital confidence.
