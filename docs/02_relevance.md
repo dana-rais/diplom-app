@@ -1,7 +1,7 @@
 # 02. Evidence of Relevance
 
 ## 1. Overview
-To ensure the proposed application addresses genuine user needs and solves actual pain points, preliminary research was conducted. This includes analyzing digital adoption barriers among elderly populations and conducting consultations with target users and stakeholders[cite: 1].
+To ensure the proposed application addresses genuine user needs and solves actual pain points, preliminary research was conducted. This includes analyzing digital adoption barriers among elderly populations and conducting consultations with target users and stakeholders.
 
 ## 2. User Consultations and Observations
 In accordance with project requirements[cite: 1], consultations and discussions were conducted with representatives of the target audience (elderly individuals aged 50+) and individuals who assist them:
