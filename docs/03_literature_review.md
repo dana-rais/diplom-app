@@ -1,7 +1,7 @@
 # 03. Literature Review
 
 ## 1. Overview
-This critical review analyzes academic and technical sources related to accessibility, user interface design for elderly users, and gamified digital literacy simulators. The review includes 12 meaningfully used sources, with at least 8 scientific publications, primarily focusing on works published within the last five years[cite: 1].
+This critical review analyzes academic and technical sources related to accessibility, user interface design for elderly users, and gamified digital literacy simulators. The review includes 12 meaningfully used sources, with at least 8 scientific publications, primarily focusing on works published within the last five years.
 
 ## 2. Structured Source Analysis
 
