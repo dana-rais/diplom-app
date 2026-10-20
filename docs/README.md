@@ -1,27 +1,20 @@
-# Development of a Mobile Application for Teaching Digital Literacy to Older Adults with Interactive Training Simulations.
+# Project Documentation
 
-## 👥 Project Team
-* **Developer / Student:** Nurdana Moldabay (Group SE-2406)
-* **Academic Supervisor:** Arstan Makatov
+This folder contains all analytical and project materials prepared for the diploma project pre-defense.
 
-## 📌 Project Overview
-A cross-platform mobile application developed using **Flutter**, designed to bridge the digital divide for elderly users (50+ years old) by providing safe, interactive training in digital literacy, smartphone navigation, and cybersecurity.
+## List of Documents:
 
-## 🎯 Core Problem & Objectives
-* **The Problem:** Older adults frequently face barriers when using modern mobile interfaces, digital government/banking services, and are vulnerable to sophisticated phone scams and fraudulent SMS messages.
-* **The Solution:** A senior-friendly educational app featuring step-by-step interactive simulators, adjustable text scaling (100%–150%), high-contrast themes, bilingual support (Kazakh/Russian), and audio narration ("Озвучить").
+1. [01_proposal.md](./01_proposal.md) — Project Proposal (goal, objectives, problem, target audience)
+2. [02_target_audience_and_ux.md](./02_target_audience_and_ux.md) — Target Audience & Senior UX Guidelines
+3. [03_functional_requirements.md](./03_functional_requirements.md) — Functional & Non-Functional Requirements
+4. [04_technical_stack.md](./04_technical_stack.md) — Technology Stack Specification
+5. [05_architecture.md](./05_architecture.md) — System Architecture & Data Flow
+6. [06_content_plan.md](./06_content_plan.md) — Curriculum & Scenario Content Plan
+7. [07_testing_strategy.md](./07_testing_strategy.md) — Quality Assurance & Accessibility Testing Plan
+8. [08_deployment_plan.md](./08_deployment_plan.md) — CI/CD Pipeline & Offline Maintenance Plan
+9. [09_security.md](./09_security.md) — Security & Data Privacy Policy
+10. [10_risks.md](./10_risks.md) — Risk Management & Task Tracking Plan
+11. [11_supervisor_feedback.md](./11_supervisor_feedback.md) — Supervisor Feedback & Comments Log
 
-## 🛠️ Technology Stack
-* **Frontend Framework:** Flutter 3.47.7 / Dart
-* **Architecture:** Clean Layered Architecture (Presentation, Business Logic, Data Layers)
-* **Local Storage:** SharedPreferences / Hive (fully offline-first capability)
-* **Task Management:** YouTrack (Agile workflow)
-* **Diagramming:** Mermaid (System Context, Use Case, and Component Diagrams)
-
-## 📂 Repository Structure
-* `docs/` — Full analytical, architectural, and project documentation (`01_proposal.md` through `11_supervisor_feedback.md`, plus architectural diagrams).
-* `.gitignore` — Git exclusion rules for build caches and sensitive data.
-
-## 🔗 Documentation & Tracking
-* **Documentation Hub:** [View full documentation structure inside `docs/`](./docs/README.md)
-* **Task Tracker:** 
+## Diagrams:
+* [Architectural Diagrams Specification](./diagrams/README.md) — System Context, Use Case, and Component Diagrams
