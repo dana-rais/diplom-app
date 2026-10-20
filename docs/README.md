@@ -1,17 +1,27 @@
-# Project Documentation
+# Development of a Mobile Application for Teaching Digital Literacy to Older Adults with Interactive Training Simulations.
 
-This folder contains all analytical and project materials prepared for the diploma project pre-defense.
+## 👥 Project Team
+* **Developer / Student:** Nurdana Moldabay (Group SE-2406)
+* **Academic Supervisor:** Arstan Makatov
 
-## List of Documents:
+## 📌 Project Overview
+A cross-platform mobile application developed using **Flutter**, designed to bridge the digital divide for elderly users (50+ years old) by providing safe, interactive training in digital literacy, smartphone navigation, and cybersecurity.
 
-1. [01_proposal.md](./01_proposal.md) — Project Proposal (goal, objectives, problem, target audience)
-2. [02_relevance.md](./02_relevance.md) — Evidence of Relevance and Interview Results
-3. [03_literature_review.md](./03_literature_review.md) — Literature Review and Source Analysis
-4. [04_system_comparison.md](./04_system_comparison.md) — Comparison with Existing Systems (Analogs)
-5. [05_tech_comparison.md](./05_tech_comparison.md) — Technology Comparison and Justification
-6. [06_requirements.md](./06_requirements.md) — Requirements Specification and Acceptance Criteria
-7. [07_architecture.md](./07_architecture.md) — Architectural Description and Diagrams
-8. [08_prototype.md](./08_prototype.md) — UX/UI Prototype Description and Figma Link
-9. [09_verification_plan.md](./09_verification_plan.md) — Verification and Evaluation Plan
-10. [10_risks.md](./10_risks.md) — Project Management, Risks, and YouTrack
-11. [11_supervisor_feedback.md](./11_supervisor_feedback.md) — Supervisor Feedback and Comments
+## 🎯 Core Problem & Objectives
+* **The Problem:** Older adults frequently face barriers when using modern mobile interfaces, digital government/banking services, and are vulnerable to sophisticated phone scams and fraudulent SMS messages.
+* **The Solution:** A senior-friendly educational app featuring step-by-step interactive simulators, adjustable text scaling (100%–150%), high-contrast themes, bilingual support (Kazakh/Russian), and audio narration ("Озвучить").
+
+## 🛠️ Technology Stack
+* **Frontend Framework:** Flutter 3.47.7 / Dart
+* **Architecture:** Clean Layered Architecture (Presentation, Business Logic, Data Layers)
+* **Local Storage:** SharedPreferences / Hive (fully offline-first capability)
+* **Task Management:** YouTrack (Agile workflow)
+* **Diagramming:** Mermaid (System Context, Use Case, and Component Diagrams)
+
+## 📂 Repository Structure
+* `docs/` — Full analytical, architectural, and project documentation (`01_proposal.md` through `11_supervisor_feedback.md`, plus architectural diagrams).
+* `.gitignore` — Git exclusion rules for build caches and sensitive data.
+
+## 🔗 Documentation & Tracking
+* **Documentation Hub:** [View full documentation structure inside `docs/`](./docs/README.md)
+* **Task Tracker:** 
