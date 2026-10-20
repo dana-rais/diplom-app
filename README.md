@@ -1,4 +1,4 @@
-#Development of a Mobile Application for Teaching Digital Literacy to Older Adults with Interactive Training Simulations.
+# Development of a Mobile Application for Teaching Digital Literacy to Older Adults with Interactive Training Simulations.
 
 ## 👥 Project Team
 * **Developer / Student:** Nurdana Moldabay (Group SE-2406)
