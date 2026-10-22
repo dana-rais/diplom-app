@@ -5,7 +5,7 @@
 * **Academic Supervisor:** Arstan Makatov
 
 ## 📌 Project Overview
-A cross-platform mobile application developed using **Flutter**, designed to bridge the digital divide for elderly users (60+ years old) by providing safe, interactive training in digital literacy, smartphone navigation, and cybersecurity.
+A cross-platform mobile application developed using **Flutter**, designed to bridge the digital divide for elderly users (50+ years old) by providing safe, interactive training in digital literacy, smartphone navigation, and cybersecurity.
 
 ## 🎯 Core Problem & Objectives
 * **The Problem:** Older adults frequently face barriers when using modern mobile interfaces, digital government/banking services, and are vulnerable to sophisticated phone scams and fraudulent SMS messages.
@@ -19,8 +19,8 @@ A cross-platform mobile application developed using **Flutter**, designed to bri
 * **Diagramming:** Mermaid (System Context, Use Case, and Component Diagrams)
 
 ## 📂 Repository Structure
-* `docs/` — Full analytical, architectural, and project documentation (`01_proposal.md` through `11_supervisor_feedback.md`, plus architectural diagrams).
-* `.gitignore` — Git exclusion rules for build caches and sensitive data.
+* `docs/` - Full analytical, architectural, and project documentation (`01_proposal.md` through `11_supervisor_feedback.md`, plus architectural diagrams).
+* `.gitignore` - Git exclusion rules for build caches and sensitive data.
 
 ## 🔗 Documentation & Tracking
 * **Documentation Hub:** [View full documentation structure inside `docs/`](./docs/README.md)
