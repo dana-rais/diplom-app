@@ -4,7 +4,7 @@
 To ensure the proposed application addresses genuine user needs and solves actual pain points, preliminary research was conducted. This includes analyzing digital adoption barriers among elderly populations and conducting consultations with target users and stakeholders.
 
 ## 2. User Consultations and Observations
-In accordance with project requirements[cite: 1], consultations and discussions were conducted with representatives of the target audience (elderly individuals aged 50+) and individuals who assist them:
+In accordance with project requirements, consultations and discussions were conducted with representatives of the target audience (elderly individuals aged 50+) and individuals who assist them:
 1. **Participant 1 (63 years old, smartphone user):** Expressed high anxiety regarding accidental financial transactions or deleting important personal data due to complex navigation logic.
 2. **Participant 2 (69 years old, basic user):** Stated that standard interface elements are too small, and terminology (e.g., "cache", "two-factor authentication") is confusing.
 3. **Participant 3 (Social Worker / Relative):** Noted that elderly learners require a risk-free environment where mistakes do not lead to real-world consequences, allowing them to build confidence progressively.
