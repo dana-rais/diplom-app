@@ -24,4 +24,4 @@ A cross-platform mobile application developed using **Flutter**, designed to bri
 
 ## 🔗 Documentation & Tracking
 * **Documentation Hub:** [View full documentation structure inside `docs/`](./docs/README.md)
-* **Task Tracker:**
+* **Task Tracker:** [https://diplom-app-nurdana.youtrack.cloud/projects/DIP]
