@@ -5,7 +5,7 @@ The System Context diagram illustrates the planned interaction between the elder
 
 ```mermaid
 graph TD
-    User([Elderly User / Senior Citizen]) <-->|Interacts with UI / Audio Guidance| FlutterApp[Interactive Digital Literacy App]
+    User[Elderly User / Senior Citizen] <-->|Interacts with UI / Audio Guidance| FlutterApp[Interactive Digital Literacy App]
     FlutterApp <-->|Reads & Saves Progress / Settings| LocalStorage[(Local Storage: SharedPreferences / Hive)]
 ```
 
@@ -16,14 +16,14 @@ The Use Case diagram defines the planned core interactions between the senior us
 
 ```mermaid
 graph LR
-    User([Senior User])
+    User[Senior User]
     
     subgraph Proposed Application Modules
-        UC1(UC-1: Customize Accessibility\nLanguage KZ/RU, Text Scale 100%-150%, Theme)
-        UC2(UC-2: View Progress\nCheck completed lessons & categories)
-        UC3(UC-3: Run Interactive Simulators\nGestures, Mock Scam Calls & SMS)
-        UC4(UC-4: Trigger Audio Guidance\nText-to-Speech Narration)
-        UC5(UC-5: Request Supportive Hint\nNon-punitive safety tips)
+        UC1(UC-1: Customize Accessibility - Language KZ/RU, Text Scale 100%-150%, Theme)
+        UC2(UC-2: View Progress - Check completed lessons & categories)
+        UC3(UC-3: Run Interactive Simulators - Gestures, Mock Scam Calls & SMS)
+        UC4(UC-4: Trigger Audio Guidance - Text-to-Speech Narration)
+        UC5(UC-5: Request Supportive Hint - Non-punitive safety tips)
     end
     
     User --> UC1
@@ -48,19 +48,24 @@ graph TD
     end
 
     subgraph Business Logic Layer State Management
-        CTRL1[SettingsController\nTheme, Font, Language]
-        CTRL2[ProgressController\nLesson tracking]
-        CTRL3[SimulationEngine\nScenarios & Error handling]
-        AUDIO[AudioNarrationService\nText-to-Speech]
+        CTRL1[SettingsController - Theme, Font, Language]
+        CTRL2[ProgressController - Lesson tracking]
+        CTRL3[SimulationEngine - Scenarios & Error handling]
+        AUDIO[AudioNarrationService - Text-to-Speech]
     end
 
     subgraph Data Layer Storage
-        DB[(LocalStorageService\nSharedPreferences / Hive)]
+        DB[(LocalStorageService - SharedPreferences / Hive)]
     end
 
-    UI1 & UI2 & UI3 --> CTRL1 & CTRL2
-    UI4 --> CTRL3 & AUDIO
-    CTRL1 & CTRL2 & CTRL3 --> DB
+    UI1 --> CTRL1
+    UI2 --> CTRL2
+    UI3 --> CTRL1
+    UI4 --> CTRL3
+    UI4 --> AUDIO
+    CTRL1 --> DB
+    CTRL2 --> DB
+    CTRL3 --> DB
 ```
 
 ---
