@@ -35,17 +35,17 @@ Czaja et al. (2006), a foundational study, showed that technology use among olde
 ## 3.5. Existing Approaches and Their Limitations
 
 The literature identifies workshops (Quialheiro et al., 2023; Siriwattanarat et al., 2025), one-to-one instruction (Wilson-Menzfeld et al., 2023), community-engaged programmes (Miller et al., 2024), interactive online modules (Moore & Hancock, 2022), and intergenerational methods (Ali et al., 2025). Three recurring limitations emerge:
-  -Dependence on human support. Many programmes need instructors, volunteers, or scheduled sessions, which restricts independent repetition.
-  -Fragmented content. Programmes concentrate on separate topics (misinformation, general device proficiency, specific services), and usability guidelines address interface design rather than learning effectiveness.
-  -Limited evidence. Studies often have small or non-randomised samples, no control groups (Miller et al., 2024), or incomplete follow-up (Seaton et al., 2023), and evidence on individual instructional strategies remains limited (Ahmad, N. A. et al., 2022).
+  - **Dependence on human support. Many programmes need instructors, volunteers, or scheduled sessions, which restricts independent repetition.
+  - **Fragmented content. Programmes concentrate on separate topics (misinformation, general device proficiency, specific services), and usability guidelines address interface design rather than learning effectiveness.
+  - **Limited evidence. Studies often have small or non-randomised samples, no control groups (Miller et al., 2024), or incomplete follow-up (Seaton et al., 2023), and evidence on individual instructional strategies remains limited (Ahmad, N. A. et al., 2022).
 
 ## 3.6. Research Gap
 
 The reviewed studies show that digital literacy training can improve older adults’ skills and that accessible design principles are well documented. Yet these two lines of research are rarely combined, and few studies evaluate a mobile application that gives learners repeatable, simulated practice of everyday digital tasks. The gap addressed by this project is the design and evaluation of a mobile learning application that combines:
 
-  -an accessible interface based on published usability guidelines;
-  -interactive training simulations of realistic tasks (using a messaging app, searching for information, recognising suspicious messages and fraud attempts);
-  -immediate feedback and assessment, with repeatable exercises and pre- and post-training measurement.
+  - **an accessible interface based on published usability guidelines;
+  - **interactive training simulations of realistic tasks (using a messaging app, searching for information, recognising suspicious messages and fraud attempts);
+  - **immediate feedback and assessment, with repeatable exercises and pre- and post-training measurement.
 
 The novelty lies not in claiming that educational apps do not exist, but in this integration and in its empirical evaluation with older adults.
 
