@@ -18,4 +18,4 @@ The proposed application will be developed using a clean layered architecture pa
 * **Component Diagram:** Outlines structural blocks including UI widgets, state controllers, simulation engine services, and local storage managers.
 
 ## 4. Source Files and Exports
-Editable source files and exported image diagrams will be stored in the [./docs/diagrams/README.md] directory.
+Editable source files and exported image diagrams will be stored in the (./docs/diagrams/README.md) directory.
